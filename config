@@ -1,0 +1,7 @@
+Host *
+  User ndxbn
+  IdentityFile ~/.ssh/%r@%h.ndxbn.tokyo
+
+Host *
+  User ndxbn
+  IdentityFile ~/.ssh/%r@%h
